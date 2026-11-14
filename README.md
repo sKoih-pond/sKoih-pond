@@ -1,4 +1,4 @@
-### Hi, I'm Sylvester
+### Welcome to my repository
 
 IT analyst building data pipelines and analytics, from raw data to a live, published tool.
 
